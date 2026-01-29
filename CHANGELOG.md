@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.1.0">
 
-## Unreleased (2025-06-02)
+## 0.1.0 (2026-01-29)
 
 <section class="features">
 
@@ -22,7 +22,7 @@
 
 <details>
 
--   [`0d59526`](https://github.com/stdlib-js/stdlib/commit/0d59526ec7c6746cb57e7ffcab2f197769caafb6) - **feat:** add `constants/float32/max-safe-lucas` [(#6374)](https://github.com/stdlib-js/stdlib/pull/6374) _(by Harsh, Athan Reines, Gunj Joshi)_
+-   [`0d59526`](https://github.com/stdlib-js/stdlib/commit/0d59526ec7c6746cb57e7ffcab2f197769caafb6) - **feat:** add `constants/float32/max-safe-lucas` [(#6374)](https://github.com/stdlib-js/stdlib/pull/6374) _(by Harsh Yadav, Athan Reines, Gunj Joshi)_
 
 </details>
 
@@ -38,7 +38,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 -   Athan Reines
 -   Gunj Joshi
--   Harsh
+-   Harsh Yadav
 
 </section>
 
