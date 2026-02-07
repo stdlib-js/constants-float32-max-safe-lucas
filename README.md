@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT32_MAX_SAFE_LUCAS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max-safe-lucas@deno/mod.js';
+import FLOAT32_MAX_SAFE_LUCAS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max-safe-lucas@v0.1.1-deno/mod.js';
 ```
 
 #### FLOAT32_MAX_SAFE_LUCAS
@@ -65,7 +65,7 @@ var bool = ( FLOAT32_MAX_SAFE_LUCAS === 12752043 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import FLOAT32_MAX_SAFE_LUCAS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max-safe-lucas@deno/mod.js';
+import FLOAT32_MAX_SAFE_LUCAS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max-safe-lucas@v0.1.1-deno/mod.js';
 
 function lucas( n ) {
     var a;
